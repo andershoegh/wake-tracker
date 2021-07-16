@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1,
+    "name": "Frontside 180",
+    "description": "180 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 2,
+    "name": "Backside 180",
+    "description": "180 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 3,
+    "name": "Frontside 360",
+    "description": "360 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 4,
+    "name": "Backside 360",
+    "description": "360 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 5,
+    "name": "Frontside 540",
+    "description": "540 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 6,
+    "name": "Backside 540",
+    "description": "540 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 7,
+    "name": "Frontside 720",
+    "description": "720 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 8,
+    "name": "Backside 720",
+    "description": "720 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 9,
+    "name": "Frontside 900",
+    "description": "900 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 10,
+    "name": "Backside 900",
+    "description": "900 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 11,
+    "name": "Frontside 1080",
+    "description": "1080 degree frontside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 12,
+    "name": "Backside 1080",
+    "description": "1080 degree backside spin",
+    "category": "Spins",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 13,
+    "name": "Railey",
+    "description": "The board is release from a heelside edge and lifted up behind and above the riders head",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 14,
+    "name": "911",
+    "description": "Backside 90 degree railey",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 15,
+    "name": "Butter fuko",
+    "description": "911 with a frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 16,
+    "name": "Krypt",
+    "description": "Railey with a frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 17,
+    "name": "Hoochie",
+    "description": "Railey with a front hand grab on the heel side edge",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 18,
+    "name": "OHH",
+    "description": "Railey with a back hand grab on the heel side edge",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 19,
+    "name": "Blind judge",
+    "description": "Railey with a backside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 20,
+    "name": "313",
+    "description": "Railey with a frontside 360",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 21,
+    "name": "BS 313",
+    "description": "Railey with a backside 360",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 22,
+    "name": "Nickelodeon",
+    "description": "Railey with a 540",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 23,
+    "name": "S-bend",
+    "description": "Railey with a backside 360 with handle above the riders head",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 24,
+    "name": "Volcan",
+    "description": "S-bend with a rewind frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 25,
+    "name": "S-bend to blind",
+    "description": "S-bend with additional backside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 26,
+    "name": "Double S-bend",
+    "description": "Railey with a backside 720 with handle above the head",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 27,
+    "name": "Double S-bend to blind",
+    "description": "Double S-bend with additional backside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 28,
+    "name": "S-mobe",
+    "description": "S-bend with frontside 360",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 29,
+    "name": "Heart attack",
+    "description": "S-bend with a backside 360",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 30,
+    "name": "Rubber chicken",
+    "description": "Railey with a backside 360 with handle above the head",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 31,
+    "name": "Hinterberger",
+    "description": "Railey with a frontside 360 with handle above the head",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 32,
+    "name": "Hinterberger 5",
+    "description": "Hinterberger with additional frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 33,
+    "name": "Hinterberger to blind",
+    "description": "Hinterberger with backside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 34,
+    "name": "118",
+    "description": "Double hinterberger",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 35,
+    "name": "118 900",
+    "description": "118 with additional frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 36,
+    "name": "TS Railey",
+    "description": "Toeside railey",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 37,
+    "name": "TS Krypt",
+    "description": "Toeside railey with a frontside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 38,
+    "name": "90210",
+    "description": "Toeside railey with a frontside 360",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 39,
+    "name": "TS blind judge",
+    "description": "Toeside railey with a backside 180",
+    "category": "Railey",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 40,
+    "name": "Back roll",
+    "description": "Heelside release where the board rotates nose over tail",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 41,
+    "name": "Roll to revert",
+    "description": "Back roll with a frontside 180",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 42,
+    "name": "Roll to blind",
+    "description": "Back roll with a backside 180",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 43,
+    "name": "Mobe",
+    "description": "Back roll with a frontside 360",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 44,
+    "name": "Mobe 5",
+    "description": "Back roll with a frontside 540",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 45,
+    "name": "KGB",
+    "description": "Back roll with backside 360",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 46,
+    "name": "Big Mac",
+    "description": "KBG with handle over the head",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 47,
+    "name": "TS back roll",
+    "description": "Toeside backflip (tantrum)",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 48,
+    "name": "TS back roll to revert",
+    "description": "Toeside back roll with frontside 180",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 49,
+    "name": "TS back roll to blind",
+    "description": "Toeside back roll with backside 180",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 50,
+    "name": "Pete Rose",
+    "description": "Toeside backroll with a frontside 360",
+    "category": "Back roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 51,
+    "name": "Front flip",
+    "description": "Heelside approach flip tail over nose",
+    "category": "Front flip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 52,
+    "name": "Front to fakie",
+    "description": "Front flip with a front side 180",
+    "category": "Front flip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 53,
+    "name": "Front to blind",
+    "description": "Front flip with a backside 180",
+    "category": "Front flip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 54,
+    "name": "Front blind mobe",
+    "description": "Front flip with a backside 360",
+    "category": "Front flip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 55,
+    "name": "Slim chance",
+    "description": "Front flip with a frontside 360",
+    "category": "Front flip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 56,
+    "name": "Front roll",
+    "description": "Toeside front roll with board rotating heel over toe",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 57,
+    "name": "Scarecrow",
+    "description": "Front roll with a frontside 180",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 58,
+    "name": "Elephant",
+    "description": "Scarecrow with a rewind 180",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 59,
+    "name": "Crow mobe",
+    "description": "Front roll with a frontside 360",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 60,
+    "name": "Crow mobe 5",
+    "description": "Front roll with a frontside 540",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 61,
+    "name": "Tootsie",
+    "description": "Front roll with a backside 180",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 62,
+    "name": "Dum dum",
+    "description": "Front roll with a backside 360",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 63,
+    "name": "Mexican roll",
+    "description": "Heelside front roll with heel edge over toe edge",
+    "category": "Front roll",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 64,
+    "name": "Tantrum",
+    "description": "Heelside backflip",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 65,
+    "name": "Tantrum to fakie",
+    "description": "Tantrum with a frontside 180",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 66,
+    "name": "Tantrum to blind",
+    "description": "Tantrum with a backside 180",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 67,
+    "name": "Moby Dick",
+    "description": "Tantrum with a backside 360",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 68,
+    "name": "Whirly bird",
+    "description": "Tantrum with a backside 360 with handle above head",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 69,
+    "name": "Whirly 5",
+    "description": "Whirly bird with additional backside 180",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 70,
+    "name": "Whirly dick",
+    "description": "Whirly bird with backside 360",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 71,
+    "name": "Double whirly",
+    "description": "Double whirly bird",
+    "category": "Tantrum",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 72,
+    "name": "Bel air",
+    "description": "Heelside backflip with toeside water release",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 73,
+    "name": "Bel air to fakie",
+    "description": "Bel air with frontside 180",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 74,
+    "name": "Bel air to blind",
+    "description": "Bel air with backside 180",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 75,
+    "name": "Moby dick (Bel air)",
+    "description": "Bel air with backside 360",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 76,
+    "name": "Tweetie",
+    "description": "Whirly bird from a bel air",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 77,
+    "name": "Tweetie 5",
+    "description": "Tweetie with a backside 360",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 78,
+    "name": "Tweetie dick",
+    "description": "Tweetie with backside 360",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 79,
+    "name": "Ben air",
+    "description": "Front roll from a heelside release",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 80,
+    "name": "Egg roll",
+    "description": "Scarecrow from a heelside edge release",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 81,
+    "name": "Egg mobe",
+    "description": "Egg roll with additional backside 180",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 82,
+    "name": "Tootsie",
+    "description": "Ben air with additional backside 180",
+    "category": "Whip",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 83,
+    "name": "Indy",
+    "description": "Back hand to between feet on toeside edge",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 84,
+    "name": "Tindy",
+    "description": "Back hand to toeside edge between back foot and the tail of the board",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 85,
+    "name": "Tail",
+    "description": "Back hand to tail edge",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 86,
+    "name": "Tailfish",
+    "description": "Back hand to heelside edge between the back binding and the tail",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 87,
+    "name": "Stalefish",
+    "description": "Back hand to heelside edge between the bindings",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 88,
+    "name": "Melon",
+    "description": "Front hand to heelside edge between the bindings",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 89,
+    "name": "Mute",
+    "description": "Front hand to heelside edge between the front binding and the nose",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 90,
+    "name": "Method",
+    "description": "Front hand to heelside edge between front binding and the nose",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 91,
+    "name": "Nose",
+    "description": "Front hand to nose edge",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 92,
+    "name": "Slob",
+    "description": "Front hand to toeside edge between front foot and the nose",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 93,
+    "name": "Crail",
+    "description": "Back hand to in between front binding and the nose",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 94,
+    "name": "Nuclear",
+    "description": "Back hand to heelside edge between the back binding and the tail",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 95,
+    "name": "Seat belt",
+    "description": "Front hand to heelside edge between the back binding and the tail",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 96,
+    "name": "Roast beef",
+    "description": "Back hand to heelside edge between the bindings, elbow facing heel edge",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 97,
+    "name": "Chicken salad",
+    "description": "Back hand to heelside edge between the binding, elbow facing toe edge",
+    "category": "Grabs",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 98,
+    "name": "5050",
+    "description": "Heelside or toeside approach on the rail with nose facing up the line",
+    "category": "Rails",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 99,
+    "name": "Backside board slide",
+    "description": "Heelside approach nose over the rail (frontside 90 rotation), facing up the line",
+    "category": "Rails",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 100,
+    "name": "Front lip",
+    "description": "Toeside approach tail over the rail (frontside 90 rotation), facing away from the line",
+    "category": "Rails",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 101,
+    "name": "Back lip",
+    "description": "Heelside approach, tail over the rail (backside 90 rotation), facing away from the line",
+    "category": "Rails",
+    "difficulty": "N/A"
+  },
+  {
+    "id": 102,
+    "name": "Front board",
+    "description": "Toeside approach, nose over the rail (backside 90 rotation), facing away from the line",
+    "category": "Rails",
+    "difficulty": "N/A"
+  }
+]
